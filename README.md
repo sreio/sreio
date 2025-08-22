@@ -33,8 +33,3 @@
   <!-- 活动图（贡献脉络） -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreio&theme=github-compact&hide_border=true" />
 </p>
-
-<!-- ===== Footer: Wave ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:22d3ee,100:0ea5e9" />
-</p>
