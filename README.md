@@ -31,6 +31,6 @@
  <!--</p> -->
 
 <!-- 可选：技能图标（简单直观） -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,mysql,bash,vue,html,python,docker,prometheus,grafana,linux&perline=11" />
-</p>
+<!--<p align="center"> -->
+  <!--<img src="https://skillicons.dev/icons?i=go,php,mysql,bash,vue,html,python,docker,prometheus,grafana,linux&perline=11" /> -->
+<!--</p> -->
