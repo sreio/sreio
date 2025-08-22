@@ -4,14 +4,6 @@
 - Favor **clean, robust, maintainable** engineering  
 - Enjoy breaking complexity into iterative pieces
 
-<!-- 可选：技能图标（简单直观） -->
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,php,mysql,bash,vue,html,python,docker,prometheus,grafana,linux&perline=11" />
-</p>
-
----
-
-## GitHub Stats (More is More)
 <p align="center">
   <!-- 总览 + 语言占比 -->
   <img src="https://github-readme-stats.vercel.app/api?username=sreio&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=true&theme=transparent" height="165" />
@@ -25,11 +17,18 @@
 </p>
 
 <p align="center">
-  <!-- 奖杯墙（视觉冲击） -->
+  <!-- 奖杯墙 -->
   <img src="https://github-profile-trophy.vercel.app/?username=sreio&theme=flat&no-frame=true&row=1&column=7" />
 </p>
 
+<!--
 <p align="center">
   <!-- 活动图（贡献脉络） -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreio&theme=github-compact&hide_border=true" />
+</p>
+-->
+
+<!-- 可选：技能图标（简单直观） -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,php,mysql,bash,vue,html,python,docker,prometheus,grafana,linux&perline=11" />
 </p>
