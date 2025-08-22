@@ -1,8 +1,10 @@
-**Hi, I’m Sreio.**  
-
-- Focused on **Backend / Frontend / Observability**  
-- Favor **clean, robust, maintainable** engineering  
-- Enjoy breaking complexity into iterative pieces
+<p align="center">
+  **Hi, I’m Sreio.**  
+  
+  - Focused on **Backend / Frontend / Observability**  
+  - Favor **clean, robust, maintainable** engineering  
+  - Enjoy breaking complexity into iterative pieces
+</p>
 
 <p align="center">
   <!-- 总览 + 语言占比 -->
@@ -21,12 +23,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sreio&theme=flat&no-frame=true&row=1&column=7" />
 </p>
 
-<!--
-<p align="center">
+ <!--<p align="center"> -->
   <!-- 活动图（贡献脉络） -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sreio&theme=github-compact&hide_border=true" />
-</p>
--->
+   <!--<img src="https://github-readme-activity-graph.vercel.app/graph?username=sreio&theme=github-compact&hide_border=true" /> -->
+ <!--</p> -->
 
 <!-- 可选：技能图标（简单直观） -->
 <p align="center">
