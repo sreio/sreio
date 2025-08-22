@@ -12,16 +12,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sreio&layout=compact&langs_count=10&hide_border=true&theme=transparent" height="165" />
 </p>
 
-<p align="center">
+<!--<p align="center"> -->
   <!-- 细节概览 + 提交连击 -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreio&theme=transparent" />
-  <img src="https://streak-stats.demolab.com?user=sreio&theme=transparent&hide_border=true" />
-</p>
+  <!--<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sreio&theme=transparent" /> -->
+  <!--<img src="https://streak-stats.demolab.com?user=sreio&theme=transparent&hide_border=true" /> -->
+<!--</p> -->
 
-<p align="center">
+<!--<p align="center"> -->
   <!-- 奖杯墙 -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sreio&theme=flat&no-frame=true&row=1&column=7" />
-</p>
+  <!--<img src="https://github-profile-trophy.vercel.app/?username=sreio&theme=flat&no-frame=true&row=1&column=7" /> -->
+<!--</p> -->
 
  <!--<p align="center"> -->
   <!-- 活动图（贡献脉络） -->
